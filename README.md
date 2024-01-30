@@ -1,8 +1,7 @@
 # CONTROL | Eclipse
 Among the first few I created textures for.
 
-Instructions to Install
-------
+## Installation
 1) You will <a href="https://www.nexusmods.com/control/mods/11">NEED Loose File Loader</a> in order to install these mods.
 2) If you haven't obtained the PS4 exclusive outfits (Urban Response, Astral Dive, Tactical Response) or others please refer to Fallbob's page <a href="https://www.nexusmods.com/control/mods/33">here</a> on how to acquire them.
 3) Go into Textures folder and pick the design/recolour you want to use.
@@ -12,8 +11,7 @@ Instructions to Install
 `C:\Epic Games\Control`
 <br>`C:\SteamLibrary\steamapps\common\Control`
 
-Uninstallation
-------
+## Removal
 Go to where you installed the mod either C: or D: or wherever you have your game installed.
 
 Example: `C:\Epic Games\Control\data_pc`,
